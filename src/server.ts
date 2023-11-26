@@ -13,16 +13,6 @@ app.get("/movies", (req, res) => {
 
 
 
-
-
-
-
-
-
-
-
-
-
 app.listen(port, () => {
     console.log(`Servidor em execução na porta ${port}`);
 });
